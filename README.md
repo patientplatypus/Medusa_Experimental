@@ -1,6 +1,11 @@
 
 
 # Medusa Enterprise Edition (or Title To Be Determined)
+
+## How to run
+ - `npm install`
+ - `npm start`
+
 ## What is the purpose of this?
  - To do a code review of the existing front-end to catch bugs
  - To get less support for ant design global variables, as well as scss support through webpack
@@ -13,6 +18,9 @@
 
 ## Current Roadblock
  - I can register a new user with the supplied credentials from Dom, however when trying to login with that user I get *401 Not Authorized*. I suspect the server may be down **I may have crashed it, woopsy doopsy**
+
+## Yet to Do
+ - Many things, but specifically any/all UI changes that need to occur, including the tree view of the folders.
 
 ## Going Forward
   - Is the juice worth the squeeze?
