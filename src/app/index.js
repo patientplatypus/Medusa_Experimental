@@ -5,7 +5,7 @@ import {render}             from 'react-dom';
 import injectTpEventPlugin  from 'react-tap-event-plugin';
 import { AppContainer }     from 'react-hot-loader';
 import 'animate.css';
-import './style/index.scss';
+// import './style/index.scss';
 import Root from './Root';
 
 const ELEMENT_TO_BOOTSTRAP  = 'root';
